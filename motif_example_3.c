@@ -2,9 +2,10 @@
  * 
  * Written by: M.Emmanuel
  * Written for: ad us. propr.
- * Date: 10/JUL/2021
+ * Date: 17/JUL/2021
  *
- * Description: Sample Motif Empty Window with a Drawing Canvas. Draws a line in the Canvas
+ * Description: Sample Motif Empty Window with a Drawing Canvas. Draws a line in the Canvas. 
+ * Handles a command line argument (application resource) to handle a named pipe file path.
  * 
  * Rev.	Date		Author		Description
  * -----------------------------------------------------------------------------------------------------------
